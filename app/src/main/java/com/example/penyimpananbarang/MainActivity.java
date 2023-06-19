@@ -19,6 +19,8 @@ public class MainActivity extends AppCompatActivity {
     EditText password;
     DataHelper dbcenter;
 
+    String[] daftar;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
